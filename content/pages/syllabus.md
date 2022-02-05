@@ -38,17 +38,144 @@ Smith, Merritt Roe, and Gregory Clancey, eds. _Major Problems in the History of 
 Schedule
 --------
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} What is _technology_? {{< br >}}{{< br >}} The history of _technology_ — the concept, the word {{< br >}}{{< br >}} Aims of the course {{< br >}}{{< br >}} In-class reading: excerpt from Don DeLillo, _White Noise_, pp. 124-129 {{< br >}}{{< br >}} Discussion: What do we mean by _technology_? {{< br >}}{{< br >}}  |
-| 2 | _Technology_ in America today |
-| 3 | The enlightenment |
-| 4 | Industrialization: A trans-atlantic debate |
-| 5 | Technological dynamism |
-| 6 | An epic of technological fatality (I) |
-| 7 | An epic of technological fatality (II) |
-| 8 | An epic of technological fatality (III) |
-| 9 | The lost America |
-| 10 | Ecological crisis (I) |
-| 11 | Ecological crisis (II) |
-| 12 |  {{< br >}}{{< br >}} Student presentations {{< br >}}{{< br >}} Final paper and oral reports {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What is _technology_?
+
+The history of _technology_ — the concept, the word
+
+Aims of the course
+
+In-class reading: excerpt from Don DeLillo, _White Noise_, pp. 124-129
+
+Discussion: What do we mean by _technology_?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Technology_ in America today
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The enlightenment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Industrialization: A trans-atlantic debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Technological dynamism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+An epic of technological fatality (I)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+An epic of technological fatality (II)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+An epic of technological fatality (III)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The lost America
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ecological crisis (I)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Ecological crisis (II)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student presentations
+
+Final paper and oral reports
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
