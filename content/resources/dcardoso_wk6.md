@@ -4,6 +4,7 @@ description: 'Example student paper on Herman Melville''s Moby-Dick: "A new kind
   science (of whales)," by Daniel Cardoso.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-464-technology-and-the-literary-imagination-spring-2008/77992fefa78bbd0fa89acc40d630d1f9_dcardoso_wk6.pdf
 file_type: application/pdf
+parent_uid: 82715cd6-5203-a3e1-d711-4cb5e7ccd6ca
 resourcetype: Document
 title: A new kind of science (of whales)
 uid: 77992fef-a78b-bd0f-a89a-cc40d630d1f9

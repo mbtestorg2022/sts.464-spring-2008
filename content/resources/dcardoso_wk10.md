@@ -4,6 +4,7 @@ description: 'Example student paper on ecological crisis: "An unknown force," by
   Cardoso.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-464-technology-and-the-literary-imagination-spring-2008/cf605c070016d6d45fa5abf8e097c1db_dcardoso_wk10.pdf
 file_type: application/pdf
+parent_uid: 82715cd6-5203-a3e1-d711-4cb5e7ccd6ca
 resourcetype: Document
 title: An unknown force
 uid: cf605c07-0016-d6d4-5fa5-abf8e097c1db
